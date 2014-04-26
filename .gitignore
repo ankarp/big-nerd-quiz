@@ -1,0 +1,29 @@
+# OS X
+.DS_Store
+# Build Directory
+build/*
+DerivedData
+# User Data
+*.pbxuser
+xcuserdata
+profile
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+# Workspace (automatically generated - not committed)
+*.xcworkspace
+!default.xcworkspace
+*.moved-aside
+# Gradle Files
+.gradle
+# CocoaPods (automatically generated - not committed)
+Podfile.lock
+Podfile
+Pods
+Resources
+# Other files to ignore
+ligradle
